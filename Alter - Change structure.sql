@@ -1,0 +1,2 @@
+ALTER TABLE customers
+MODIFY COLUMN testCol INT(11);

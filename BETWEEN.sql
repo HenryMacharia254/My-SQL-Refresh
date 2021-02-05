@@ -1,0 +1,3 @@
+SELECT * FROM customers 
+WHERE age 
+BETWEEN 22 AND 40;

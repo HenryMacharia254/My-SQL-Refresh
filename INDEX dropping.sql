@@ -1,0 +1,1 @@
+DROP INDEX CIndex ON customers;

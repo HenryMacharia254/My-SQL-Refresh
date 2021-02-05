@@ -1,0 +1,1 @@
+SELECT LCASE(firstName), UCASE(lastName) FROM customers

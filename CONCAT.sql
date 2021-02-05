@@ -1,0 +1,1 @@
+SELECT CONCAT(firstName , ' ' , lastName) AS 'Name' , address, city, state FROM customers;

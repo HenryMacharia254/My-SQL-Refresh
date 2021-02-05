@@ -1,0 +1,1 @@
+ALTER TABLE customers ADD testCol VARCHAR(255);
